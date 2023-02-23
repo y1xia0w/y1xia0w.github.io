@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://y1xia0w.github.io/sitemap.xml
